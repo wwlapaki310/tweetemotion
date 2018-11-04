@@ -1,5 +1,6 @@
 <!-- # twitterの内容の感情分析 -->
-# ここの通りにやってみました．(http://boomin.yokohama/archives/667)。
+# ここの通りにやってみました．(https://boomin.yokohama/archives/667)。
+環境はpython3.6 Ubuntu
 今回使用した教師データのアカウントはこちら
 ・ポジティブ教師データ
 bot10586321, heart_meign, kami_positive, maemukikotoba1, Plus_bot, posi_sibe_sp_, positive_bot3, positivekk_bot
