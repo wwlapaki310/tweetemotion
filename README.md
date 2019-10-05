@@ -1,5 +1,5 @@
 <!-- # twitterの内容の感情分析 -->
-# twitterの内容の感情分析を下サイトの通りにやってみました．
+# twitterの内容の感情分析をWebサービス化してみた．
 - https://boomin.yokohama/archives/667
 - 環境はpython3.6 Ubuntu
 - 今回使用した教師データのアカウントはこちら
